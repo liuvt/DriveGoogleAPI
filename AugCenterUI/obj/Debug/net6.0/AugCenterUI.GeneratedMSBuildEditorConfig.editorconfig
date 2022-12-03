@@ -1,0 +1,72 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AugCenterUI
+build_property.RootNamespace = AugCenterUI
+build_property.ProjectDir = /root/projects/DriveGoogleAPI/AugCenterUI/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /root/projects/DriveGoogleAPI/AugCenterUI
+build_property._RazorSourceGeneratorDebug = 
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/Pages/Displays/ErrorMessageDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGlzcGxheXMvRXJyb3JNZXNzYWdlRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/Pages/ProductDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdERldGFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/Pages/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/Pages/Displays/LoadingItemDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGlzcGxheXMvTG9hZGluZ0l0ZW1EaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-aqo3uqaaiq
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/Pages/Displays/ProductDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGlzcGxheXMvUHJvZHVjdERpc3BsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-mg9t4p8k56
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-byj9p5upsp
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-24b2rbea0f
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/root/projects/DriveGoogleAPI/AugCenterUI/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

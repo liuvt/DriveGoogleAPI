@@ -1,0 +1,26 @@
+﻿@inherits LayoutComponentBase
+
+<PageTitle>AugCenter</PageTitle>
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="top-row px-4"> <!--justify-content: flex-end; canh cuối thẻ div-->
+            <div class="d-inline p-1">
+                <img class="paragraph-icon" src="/Img/PageIcon/Incoming-Call.png" >
+                <p style="display: inline;">03.4224.9494</p>
+            </div>
+            <div class="d-inline p-1">
+                <img  class="paragraph-icon" src="/Img/PageIcon/From-Mail-WF.png">
+                <p class="d-inline">ltvan1108@gmail.com</p>
+            </div>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>

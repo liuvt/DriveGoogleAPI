@@ -1,0 +1,31 @@
+﻿@page "/"
+
+@inherits ProductsBase
+
+<PageTitle>AugCenter - Chuyên cung cấp thiết bị điện tử điện máy</PageTitle>
+
+@if (Products == null)
+{
+    <LoadingItemDisplay />
+}
+else
+{
+    <h4 class="mb-4">SẢN PHẨM</h4>
+
+    var productCount = Products.Count();
+
+    if (productCount > 0)
+    {
+        @foreach (var prodGroup in GetGroupedProductsByCaterogy())
+        {
+            @*Lấy tên category*@
+            <h5 class="mb-3" style="color: rgb(177,177,177);">@GetCategoryName(prodGroup)</h5>
+            @*class="row g-3": khoảng cách trên dưới*@
+            <div class="row g-3">
+                <ProductDisplay Products="@prodGroup.Take(4)" />
+            </div>
+            <hr class="mb-3" />
+        }
+
+    }
+}

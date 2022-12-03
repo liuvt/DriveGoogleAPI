@@ -1,0 +1,45 @@
+a[b-mg9t4p8k56] {
+    text-decoration: none;
+}
+
+a:hover .card[b-mg9t4p8k56] {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.card[b-mg9t4p8k56] {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    transition: box-shadow 0.3s ease-in-out;
+    overflow: hidden;
+}
+
+a:hover img[b-mg9t4p8k56] {
+    transform: scale(1.07);
+    transition: 0.5s ease-in-out;
+}
+
+.card-body[b-mg9t4p8k56]{
+    background-color: rgb(245,245,245);
+}
+
+img[b-mg9t4p8k56] {
+    transition: 0.5s ease-in-out;
+}
+
+
+.card h3[b-mg9t4p8k56] {
+    text-transform: uppercase;
+    color: rgb(177,177,177);
+    font-size: .7rem;
+}
+
+.card h5[b-mg9t4p8k56] {
+    font-size: 18px;
+}
+
+.card h4[b-mg9t4p8k56] {
+    color: rgb(250, 30, 5);
+    font-size: 20px;
+}
